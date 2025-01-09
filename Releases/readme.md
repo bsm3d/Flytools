@@ -343,10 +343,10 @@ Detailed flight history tracking:
 
 ## Licensing and Support
 
-- **Type:** Freeware
+- **Type:** Open Source
 - **Cost:** Free to use and share
 - **Donation:** Suggested (€15)
-- **Support Email:** contact@lightplane.org
+- **Donation Email:** helloworld@tdt3d.com
 - **Official Website:** http://www.lightplane.org
 
 ## Disclaimer
