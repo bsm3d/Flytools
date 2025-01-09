@@ -344,7 +344,7 @@ Detailed flight history tracking:
 
 ## Copyright and Acknowledgments
 
-© Saint-Moulin Benoît
+© Benoît Saint-Moulin 
 
 **Special Thanks:**
 - William Yu (RapidQ Development)
