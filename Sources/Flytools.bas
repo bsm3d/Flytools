@@ -1,4 +1,3 @@
-$TYPECHECK ON
 '******************************************************************************
 'FlyTools - Version 1.6.1
 'Code by Benoit (BSM3D) Saint-Moulin
