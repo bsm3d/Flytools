@@ -1,5 +1,5 @@
 # Compilation Instructions
-![main](https://github.com/user-attachments/assets/de42bc27-b005-4c0e-826e-fede2b958092)
+![wb](https://github.com/user-attachments/assets/c2a43db5-3670-48f1-be68-e2268c3e837e)
 ![airfield](https://github.com/user-attachments/assets/6992c8bb-b6c2-4e42-9ed1-7c6b4b174b2b)
 
 ## Prerequisites
