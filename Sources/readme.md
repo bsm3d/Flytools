@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - Windows Operating System
-- RapidQ Framework
+- RapidQ Framework : https://rapidq.phatcode.net/
 
 ## Installation Steps
 
