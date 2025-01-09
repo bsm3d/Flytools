@@ -250,6 +250,11 @@ Supports conversion between:
 ## Database Management
 
 ### Airfields Database
+
+#### Pre-Installed Database
+FlyTools comes with a pre-installed ICAO database located in the "Database" directory. This comprehensive database provides instant access to crucial airport information without additional setup.
+
+#### Database Contents
 Comprehensive airport information management:
 - Airport Name
 - ICAO Code
@@ -257,6 +262,11 @@ Comprehensive airport information management:
 - Radio Frequencies
 - Altitude
 - Geographical Coordinates
+
+#### Database Features
+- Extensive pre-loaded airport information
+- Easy access to global airport details
+- Offline availability of critical navigation data
 
 #### Database Operations
 - Add New Records
@@ -266,6 +276,11 @@ Comprehensive airport information management:
   - Airfield Search
   - Code Search
   - Country Search
+
+#### Database Accessibility
+- Directly accessible from the main interface
+- Quick search functionality
+- Ability to customize and expand existing database
 
 ### Pilot Logbook
 Detailed flight history tracking:
@@ -328,10 +343,10 @@ Detailed flight history tracking:
 
 ## Licensing and Support
 
-- **Type:** Open source
+- **Type:** Freeware
 - **Cost:** Free to use and share
-- **Donation:** Suggested (€10)
-- **Donation Email:** helloworld@tdt3d.com
+- **Donation:** Suggested (€15)
+- **Support Email:** contact@lightplane.org
 - **Official Website:** http://www.lightplane.org
 
 ## Disclaimer
