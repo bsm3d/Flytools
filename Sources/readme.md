@@ -2,13 +2,13 @@
 
 ## Prerequisites
 - Windows Operating System
-- RapidQ Framework : https://rapidq.phatcode.net/
+- RapidQ Framework : [https://rapidq.phatcode.net/](https://rapidq.phatcode.net/download/index.html)
 
 ## Installation Steps
 
 1. Download and extract RapidQ to C:/rapidq/
 
-2. Copy all FlyTools source files to the RapidQ directory:
+2. Copy all FlyTools sources to the RapidQ directory:
    ```
    C:/rapidq/
    ├── Flytools.bas
