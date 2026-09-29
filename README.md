@@ -98,19 +98,7 @@ For developers interested in understanding basic database techniques, this appro
 2. Optional: Configure preferences through the application
 
 ## License
-MIT License
-
-Copyright (c) 2000 Benoit (BSM3D) Saint-Moulin
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE): free for personal, educational and any other noncommercial use. Commercial use needs my prior authorization. Versions published before 30 September 2026 were released under the MIT License, copies obtained at that time remain under MIT.
 
 ⚠️ **WARNING**: Use at your own risk - no warranty provided!
 
