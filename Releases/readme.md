@@ -343,7 +343,7 @@ Detailed flight history tracking:
 
 ## Licensing and Support
 
-- **Type:** Open Source
+- **Type:** Free, source available (PolyForm Noncommercial 1.0.0)
 - **Cost:** Free to use and share
 - **Donation:** Suggested (€15)
 - **Donation Email:** helloworld@tdt3d.com
